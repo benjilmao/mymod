@@ -1,6 +1,6 @@
-package com.example.config.categories;
+package com.github.benjilmao.mymod.config.categories;
 
-import com.example.ExampleMod;
+import com.github.benjilmao.mymod.ExampleMod;
 import com.google.gson.annotations.Expose;
 import io.github.moulberry.moulconfig.Config;
 import io.github.moulberry.moulconfig.annotations.Category;

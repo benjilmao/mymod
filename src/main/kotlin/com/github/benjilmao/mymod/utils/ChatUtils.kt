@@ -1,4 +1,4 @@
-package com.example.utils
+package com.github.benjilmao.mymod.utils
 
 import net.minecraft.client.Minecraft
 import net.minecraft.util.ChatComponentText
